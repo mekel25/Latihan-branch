@@ -1,4 +1,4 @@
-# Latihan-branch
+# Latihan Pushup
 ## Latihan menggunakan branch 
 
 Ini merupakan latihan untuk membuat branch dari dicoding academy
